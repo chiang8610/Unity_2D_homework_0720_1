@@ -173,7 +173,7 @@ MonoBehaviour:
   m_MinSize: {x: 811, y: 492}
   m_MaxSize: {x: 22006, y: 14042}
   vertical: 0
-  controlID: 178
+  controlID: 190
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -651,7 +651,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: 16
-  m_LastProjectPath: G:\Desktop\0710unity\Unity_2D_homework_0720\Unity2Dhomework0720
+  m_LastProjectPath: G:\Desktop\0710unity\Unity_2D_homework_0720_1\Unity2Dhomework0720
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
@@ -814,18 +814,18 @@ MonoBehaviour:
       y: 21
       width: 658
       height: 274
-    m_Scale: {x: 5.000003, y: 5.000003}
-    m_Translation: {x: -559.50037, y: -167.60587}
+    m_Scale: {x: 4.999999, y: 5}
+    m_Translation: {x: -559.4998, y: -167.60588}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: 111.90001
-      y: 33.521152
-      width: 131.59993
-      height: 54.79997
+      x: 111.89999
+      y: 33.521175
+      width: 131.60002
+      height: 54.8
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 658, y: 295}
@@ -870,9 +870,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.79396355, y: 2.9250062, z: -13.711905}
+    m_Target: {x: 29.753134, y: 29.978466, z: -20.596146}
     speed: 2
-    m_Value: {x: 1.1046529, y: 2.7583637, z: -13.656623}
+    m_Value: {x: 29.753134, y: 29.978466, z: -20.596146}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -922,9 +922,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 12.833779
+    m_Target: 59.202084
     speed: 2
-    m_Value: 12.281129
+    m_Value: 59.202084
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -980,7 +980,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 14f8ffff28f8ffffd0f8ffff5efbffff
+      m_ExpandedIDs: b4f9ffffc8f9ffff70faffff5efbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
